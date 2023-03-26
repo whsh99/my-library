@@ -1,0 +1,128 @@
+[
+  {
+    "bn": "40157",
+    "tl": "小王子",
+    "typ": "文學小說",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "75053",
+    "tl": "論攝影",
+    "typ": "藝術設計",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "37721",
+    "tl": "見樹又見林",
+    "typ": "人文社科",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "82815",
+    "tl": "正義:一場思辨之旅",
+    "typ": "人文社科",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "40560",
+    "tl": "垃圾與它們的產地: 為什麼99%的東西半年後都被丟棄？",
+    "typ": "自然科普",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "66273",
+    "tl": "由片語學習C程式設計(第二版)",
+    "typ": "電腦資訊",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "17029",
+    "tl": "Fundamentals of Data Structures in C++, 2/e",
+    "typ": "電腦資訊",
+    "lang": "en",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "84392",
+    "tl": "Operating System Concepts, 10/e",
+    "typ": "電腦資訊",
+    "lang": "en",
+    "stat": "已外借",
+    "b_date": "2022-10-12(Wed)",
+    "r_date": "2022-10-19(Wed)"
+  },
+  {
+    "bn": "56026",
+    "tl": "Do Androids Dream of Electric Sheep?",
+    "typ": "文學小說",
+    "lang": "en",
+    "stat": "已外借",
+    "b_date": "2022-10-12(Wed)",
+    "r_date": "2022-10-19(Wed)"
+  },
+  {
+    "bn": "30247",
+    "tl": "觀看的方式",
+    "typ": "藝術設計",
+    "lang": "zh",
+    "stat": "已外借",
+    "b_date": "2022-10-12(Wed)",
+    "r_date": "2022-10-19(Wed)"
+  },
+  {
+    "bn": "27301",
+    "tl": "Computer Networking: A Top-Down Approach, 8/e",
+    "typ": "電腦資訊",
+    "lang": "en",
+    "stat": "已外借",
+    "b_date": "2022-10-12(Wed)",
+    "r_date": "2022-10-19(Wed)"
+  },
+  {
+    "bn": "55468",
+    "tl": "生命中不能承受之輕",
+    "typ": "文學小說",
+    "lang": "zh",
+    "stat": "已外借",
+    "b_date": "2022-10-12(Wed)",
+    "r_date": "2022-10-19(Wed)"
+  },
+  {
+    "bn": "60197",
+    "tl": "菇菇教科書: 蕈類觀察與辨別入門",
+    "typ": "自然科普",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  {
+    "bn": "58137",
+    "tl": "The Socrates Express: In Search of Life Lessons from Dead Philosophers",
+    "typ": "人文社科",
+    "lang": "en",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  }
+]
