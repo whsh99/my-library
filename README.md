@@ -17,4 +17,4 @@ Principles of Informatic Programming
 
     (1) 將上述檔案儲存於同一目錄下.
 
-    (2) 編譯並執行 portal.py.
+    (2) 編譯(Python 3.6以上版本)並執行 portal.py.
