@@ -1,7 +1,6 @@
 # my-library
-Principles of Informatic Programming
 
-## ./my-library 說明：
+## 檔案說明：
 
 1. portal.py
 此檔案為系統的入口，負責顯示主選單，並根據使用者輸入導向相應功能模組。
@@ -61,3 +60,5 @@ json
     (1) 將上述檔案儲存於同一目錄下。
 
     (2) 編譯(Python 3.6以上版本)並執行 portal.py。
+
+## 如何使用 Python 讀寫 JSON 檔案？
