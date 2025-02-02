@@ -1,17 +1,60 @@
 # my-library
 Principles of Informatic Programming
 
-1. ./my-library 說明：
+## ./my-library 說明：
 
-    (1) library.json: 提供 funs.py read/write 書籍資料的 .json file。
+1. portal.py
+此檔案為系統的入口，負責顯示主選單，並根據使用者輸入導向相應功能模組。
 
-    (2) portal.py: main()。
+主要功能：
 
-    (3) funs.py: 定義列出所有書籍,依類別查詢書籍,依書號查詢書籍,新增書籍,刪除書籍,修改書籍等 method。
+管理者登入 (Admin 類別)。
+主功能選單與操作流程控制。
+包含登出與退出系統的選項。
+2. admin.py
+管理者相關功能，包括：
 
-    (4) admin.py: 定義 Admin class,定義登入,忘記密碼等 method。
+登入驗證：需輸入正確的帳號與密碼，最多嘗試 3 次。
+忘記密碼：提供學號驗證以找回密碼。
+3. books.py
+定義 Book 類別，描述書籍的屬性，包括：
 
-    (5) books.py: 定義 Book class。
+書號（bn）
+書名（tl）
+類別（typ）
+語言（lang）
+狀態（stat）
+借書日期（b_date）
+還書日期（r_date）
+4. funs.py
+書籍管理的核心模組，提供以下功能：
+
+從 JSON 檔案讀取與寫入書籍數據。
+列出所有書籍。
+查詢書籍（依類別或書號）。
+新增書籍：自動生成隨機書號，並設定書籍屬性。
+刪除書籍：根據書號刪除指定書籍。
+修改書籍：更新書籍狀態及日期。
+5. library.json
+書籍數據儲存檔案，範例內容如下：
+
+json
+複製
+編輯
+```=JSON
+[
+  {
+    "bn": "40157",
+    "tl": "小王子",
+    "typ": "文學小說",
+    "lang": "zh",
+    "stat": "在館藏",
+    "b_date": "",
+    "r_date": ""
+  },
+  ...
+]
+```
 
 2. 執行：
 
