@@ -8,7 +8,7 @@ Created on Sun Oct  9 12:28:19 2022
 import sys  # 使用 exit() 終止程式執行
 
 class Admin:
-    def __init__(self, uid = 'lucas', pwd = '123456', pwd_hint = '7110029138'):  # 初始化管理員
+    def __init__(self, uid = 'lucas', pwd = '123456', pwd_hint = '7110029000'):  # 初始化管理員
         self.uid = uid  # uid: 帳號
         self.pwd = pwd  # pwd: 密碼
         self.pwd_hint = pwd_hint  # pwd_hint: 密碼提示
